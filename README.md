@@ -1,9 +1,16 @@
 # Hi, I'm Johnny
 
-• 🧪 I'm a Tester and UI/UX designer with a deep interest in software development
+Since childhood I've been interested in technology and creativity. Everything from video
+games and computers to cameras, image editing, filmmaking, and web design has been
+part of it in various forms all along. High school was spent in the creative sphere with
+photography, film, and web, while my later education, which came somewhat later in life
+after some work experience, led me onto the path I'm on today.
 
-• 🏢 I'm in the start up phase of my own company [True Friends AB](https://truefriends.se) — A media and technology company
+My primary focus professionally is testing, but to broaden myself and become a bigger
+asset, I've drawn on my creative streak and pursued further education in UX/UI design,
+alongside a genuine interest in technology that has led me toward security principles,
+cybersecurity, hardware, programming, and AI.
 
-• 🍽️ Practicing my skills by building The Plateful [The Plateful](https://theplateful.app) — a food and recipe tool
-
-• 💻 Currently diving deeper into full-stack development and cybersecurity
+Altogether, my somewhat diversified skill set has made me a better tester, designer, and
+team member for my colleagues, and a greater asset to my clients, since I've built up
+a strong understanding of software development as a whole.
